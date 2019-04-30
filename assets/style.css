@@ -1,0 +1,17 @@
+/* * {outline: 1px solid red
+} */
+header {
+  background-color: #224686;
+  height: 150px;
+  color: #ffffffd0;
+}
+#bodytext {
+  width: 75%;
+}
+#bodypicture {
+  width: 25%;
+}
+#footer {
+  height: 200px;
+  background-color: #224686;
+}
